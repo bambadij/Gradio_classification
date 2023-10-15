@@ -81,23 +81,4 @@ For manual installation, you need to have `Python 3` on your system. Then you ca
         
       http://127.0.0.1:7860
 
-## Screenshots 🖼️
-
-<table>
-    <tr>
-        <th> Gradio App </th>
-    </tr>
-    <tr>
-        <td><img src="screenshots\Screenshot 1.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="screenshots\Screenshot 2.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="screenshots\Screenshot 3.png"/></td>
-    </tr>
-</table>
-
-## Author 🖊️
-
 - [Bambo Traore](https://www.linkedin.com/in/traore-bambo/)
