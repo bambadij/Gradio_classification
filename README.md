@@ -6,7 +6,7 @@ This project uses a trained machine learning model to build a web interface that
 
 | Code      | Name        | Published Article |
 |-----------|-------------|:-------------:|
-| LP4 | Customer Churn Prediction with Gradio |  [Churn Prediction article]() |
+| LP4 | Customer Churn Prediction with Gradio |  [Churn Prediction article](https://medium.com/@bambadij/build-app-machine-learning-with-gradio-827e878631fa) |
 
 ## Introduction
 
@@ -30,7 +30,7 @@ In this project, a classification ML model was embedded into a web app with [Gra
 
 ## Setting up the Environment 🍀
 
-For manual installation, you need to have `Python 3` on your system. Then you can clone this repo and be at the repo's root `https://github.com/Azie88/Gradio-ML-classification-model-app-deployment`, then follow the steps as outlined below;
+For manual installation, you need to have `Python 3` on your system. Then you can clone this repo and be at the repo's root `https://github.com/bambadij/Gradio_classification`, then follow the steps as outlined below;
 
 1. Create a Python virtual environment to isolate the project's required libraries and avoid conflicts. Execute the following command in your terminal:
 
